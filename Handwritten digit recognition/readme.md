@@ -11,9 +11,10 @@ This project focuses on recognizing handwritten digits (0-9) using a deep learni
 
 ## Dataset
 The dataset used in this project is the MNIST dataset, which contains images of handwritten digits. The dataset can be viewed as a classification task with the following columns:
-### Input variables (Image Features):
+Input variables (Image Features):
 Image - 28x28 grayscale image of a handwritten digit (0-9).
-Output variable (Label): 2. Label - The corresponding digit (a value between 0 and 9).
+Output variable (Label): 
+Label - The corresponding digit (a value between 0 and 9).
 
 ## Classes
 * There are 10 classes: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
